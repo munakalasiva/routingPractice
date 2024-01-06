@@ -1,0 +1,22 @@
+.nav-img {
+  height: 30px;
+  width: 30px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+}
+.wave {
+  display: flex;
+}
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+}
+.color {
+  color: #555555;
+  font-size: 20px;
+  padding-right: 20px;
+}
